@@ -1,0 +1,12 @@
+Initial file permission for project_x.txt:
+-rw-rw-r--
+
+Goal:
+Update file permissions so that both the user and group can read, but not write, the file.
+This will reduce the risk of unauthorized modification.
+
+Updated file permission for project_x.txt:
+-r--r--r--
+
+Verification:
+Permissions were successfully updated. Both user and group can read, but not write.
