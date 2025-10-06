@@ -13,7 +13,7 @@ chmod u-w,g-w project_x.txt
 ## Result
 r--r--r--
 
-##Verification
+## Verification
 User: Can read file, but cannot write and execute.
 Group: Can read file, but cannot write and execute.
 Write permission has been removed from both user and group
